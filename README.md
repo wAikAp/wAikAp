@@ -7,7 +7,7 @@
   <a href="https://github.com/wAikAp">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="#"><img src="https://badges.pufler.dev/visits/wAikAp/wAikAp?style=for-the-badge"></a> 
+  
 </p>
 
 👨‍💻 A full stack software developer from Hong Kong.<br>
@@ -18,6 +18,15 @@
   </a><br><br>
 🛠️ Let's check it out <a href='https://waikap.github.io/portfolio-demo/'>my profile.</a><br>
 
+<p align='left'>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=wAikAp&show_icons=true&count_private=true&theme=vue">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=waikap&theme=vue" >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wAikAp&layout=compact&langs_count=10&theme=vue" >
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wAikAp&theme=vue" >
+    
+  </a>
+</p>
 
 ##### SKILLS STACK
   ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -33,13 +42,3 @@
   ![Amazon_AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
   ![NGINS](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
   ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-<p align='center'>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=wAikAp&show_icons=true&count_private=true&theme=vue" height="180">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=waikap&theme=vue" height="180">
-  </a>
-  <a href="#">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wAikAp&theme=vue" height="180">
-  </a>
-</p>

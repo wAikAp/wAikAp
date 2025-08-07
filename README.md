@@ -11,11 +11,6 @@
 </p>
 
 👨‍💻 A full stack software developer from Hong Kong.<br>
-🧱 Graduated from The Hong Kong Polytechnic University (PolyU), BSc in Information Technology 
-  <a href='https://www.polyu.edu.hk/'>
-    <span>PolyU HK</span>
-    <img src='https://raw.githubusercontent.com/wAikAp/GitBoard/main/Logo/PolyU.Logo.png?token=GHSAT0AAAAAABUHZYCZF4CB5MXN32WX6RGUYTTVONQ' width="25" />
-  </a><br><br>
 🛠️ Let's check it out <a href='https://waikap.github.io/portfolio-demo/'>my profile.</a><br>
 
 <p align='left'>
